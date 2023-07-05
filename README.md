@@ -3,9 +3,9 @@
 
 This project explores the implementation of an optimal BBU placement algorithm and online traffic modeling. The project report includes a detailed description of the algorithm, modifications made to cater to dynamic traffic scenarios, and simulation results.
 
-## Project Report
+## Project Information
 
-The project report is available in the `report.pdf` file. It includes the following sections:
+The project information is available in the `report.pdf` file. It includes the following sections:
 
 - Introduction
 - Related Work
